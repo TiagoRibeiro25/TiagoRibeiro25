@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  - 🔭 I’m currently studying at <strong>ESMAD</strong><br><br>- 🌱 I’m currently learning <strong>Vue and Node.js (Express)</strong><br><br>- 📫 How to reach me <strong>-|GOLD|-#5063 (discord)</strong><br><br>- ⚡ Fun fact <strong>I like gaming >:D</strong>
+  - 🔭 I’m currently studying at <strong>ESMAD</strong><br><br>- 🌱 I’m currently learning <strong>Vue and React</strong><br><br>- 📫 How to reach me <strong>-|GOLD|-#5063 (discord)</strong><br><br>- ⚡ Fun fact <strong>I like gaming >:D</strong>
 </p>
 
 <br>

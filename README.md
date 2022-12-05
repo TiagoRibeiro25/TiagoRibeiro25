@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-- Hi 👋, I'm Tiago Ribeiro<br>- 🔭 I’m currently studying at ESMAD<br>- 🌱 I’m currently learning Vue and React<br>- 📫 How to reach me -|GOLD|-#5063 (discord)<br>- ⚡ Fun fact I like gaming >:D
+- Hi 👋, I'm Tiago Ribeiro<br>- 🔭 I’m currently studying at ESMAD<br>- 🌱 I’m currently learning Vue and React<br>- 📫 How to reach me -|GOLD|-#5063 (discord)<br>- ⚡ My first programming was Pascal 👀
 
 ### ✍️ Dev Quote of the Day
 

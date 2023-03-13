@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-- Hi 👋, I'm Tiago Ribeiro<br>- 🔭 I’m currently studying at ESMAD<br>- 🌱 I’m currently learning Nuxt and React on my free time<br>- 📫 How to reach me -|GOLD|-#5063 (discord)<br>- ⚡ My first programming language was Pascal 👀
+- Hi 👋, I'm Tiago Ribeiro<br>- 🔭 I’m currently studying at ESMAD<br>- 🌱 I’m currently learning Socket.io and Next.js on my free time<br>- 📫 How to reach me -|GOLD|-#5063 (discord)<br>- ⚡ My first programming language was Pascal 👀
 
 ### ✍️ Dev Quote of the Day
 

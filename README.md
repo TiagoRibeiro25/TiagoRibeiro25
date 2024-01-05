@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-- Hi 👋, I'm Tiago Ribeiro<br>- 🔭 I’m currently studying at ESMAD<br>- 🌱 I’m currently learning Golang and Rust on my free time<br>- 📫 How to reach me -|GOLD|-#5063 (discord)<br>- ⚡ My first programming language was Pascal 👀
+- Hi 👋, I'm Tiago Ribeiro<br />- 🔭 I’m currently studying at ESMAD<br />- 🌱 I’m always learning on my free time<br />- 📫 How to reach me [Contact me](https://tiagoribeiro.tech/contact)<br />- ⚡ My first programming language was Pascal<br />- 😎 I use Arch btw
 
 ### ✍️ Dev Quote of the Day
 

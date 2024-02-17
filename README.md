@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tiagoribeiro.tech">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/TiagoRibeiro25/TiagoRibeiro25/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 

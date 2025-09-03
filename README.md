@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-- Hi 👋, I'm Tiago Ribeiro<br />- 🔭 I’m currently studying at ESMAD<br />- 🌱 I’m always learning on my free time<br />- ⚡ My first programming language was Pascal
+- Hi 👋, I'm Tiago Ribeiro<br />- 🌱 I’m always learning on my free time<br />- ⚡ My first programming language was Pascal
 
 ### ✍️ Dev Quote of the Day
 

@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-- Hi 👋, I'm Tiago Ribeiro<br />- 🌱 I’m always learning on my free time<br />- ⚡ My first programming language was Pascal
+- Hi 👋, I'm Tiago Ribeiro<br />- 🌱 I’m always learning on my free time<br />- ⚡ My first programming language was Pascal<br />- 🧑🏻‍💻 My last project [Only Foods](https://onlyfoods.onrender.com)
 
 ### ✍️ Dev Quote of the Day
 

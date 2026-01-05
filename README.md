@@ -12,6 +12,7 @@
 
 - [Verónica Piteira](https://veronicapiteira.vercel.app)
 - [Carla Santos](https://carlasantosesteticista.vercel.app)
+- [Godinho Photo Fest](https://godinhophotofest.netlify.app)
 
 ### ✍️ Dev Quote of the Day
 

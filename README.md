@@ -8,12 +8,6 @@
 
 - Hi 👋, I'm Tiago Ribeiro<br />- 🌱 I’m always learning on my free time<br />- ⚡ My first programming language was Pascal
 
-## Client Projects
-
-- [Verónica Piteira](https://veronicapiteira.vercel.app)
-- [Carla Santos](https://carlasantosesteticista.vercel.app)
-- [Godinho Photo Fest](https://godinhophotofest.netlify.app)
-
 ### ✍️ Dev Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
